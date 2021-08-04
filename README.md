@@ -1,4 +1,4 @@
-Google Ads Android IMA SDK(Exoplayer) and People COunter for Arcelik 
+Google Ads Android IMA SDK(Exoplayer) and People Counter for Arcelik 
 --------------------------
 
 ![Build status](https://github.com/googleads/googleads-ima-android/workflows/Build%20Status/badge.svg?branch=master)
