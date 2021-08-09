@@ -7,6 +7,8 @@ Google Ads Android IMA SDK(Exoplayer examples(PreRoll. Mid-Roll, etc) in the Adv
 ### Requirements
 
 *   Android Studio 3.0 or newer
+*   Exoplayer Version 2.X.X above
+*   Gradle Version 7.0 above
 
 ### Downloads
 Check out the [releases section](https://github.com/googleads/googleads-ima-android/releases) for downloadable zips of the source.
