@@ -1,9 +1,8 @@
-Google Ads Android IMA SDK(Exoplayer) and People Counter for Arcelik 
+Google Ads Android IMA SDK(Exoplayer examples(PreRoll. Mid-Roll, etc) in the Advanced IMA example) and People Counter for Arcelik 
 --------------------------
 
-![Build status](https://github.com/googleads/googleads-ima-android/workflows/Build%20Status/badge.svg?branch=master)
 
-This project hosts samples for the [Android IMA SDK](https://developers.google.com/interactive-media-ads/docs/sdks/android/v3/).
+[Android IMA SDK](https://developers.google.com/interactive-media-ads/docs/sdks/android/v3/).
 
 ### Requirements
 
